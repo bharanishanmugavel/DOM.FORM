@@ -1,0 +1,88 @@
+body {
+  background-color: rgb(28, 82, 109);
+}
+label {
+  color: rgb(8, 7, 7);
+  font-size: 14px;
+}
+
+.mainLabel {
+  font-size: 17px;
+  margin-top: 20px;
+  margin-bottom: 1px;
+  color: rgb(214, 110, 25);
+}
+
+.textBox {
+  border: 1px solid rgb(22, 22, 22);
+  padding: 4px;
+  width: 250px;
+  font-size: 13px;
+}
+
+.foodLabel {
+  padding-left: 5px;
+}
+
+input {
+  font-size: 13px;
+}
+
+.radioLabel {
+  padding: 13px 20px 0 5px;
+  font-size: 14px;
+  position: relative;
+  bottom: 2px;
+}
+
+.btn {
+  margin-top: 20px;
+  width: 250px;
+  background-color: rgb(17, 78, 25);
+  color: rgb(245, 239, 239);
+}
+
+#warning {
+  color: red;
+  padding: 40px 0 0 20px;
+}
+
+.btn:focus,
+a:active {
+  outline: none !important;
+  box-shadow: none;
+}
+table,
+th,
+tbody,
+h1,
+p {
+  color: rgb(40, 175, 175);
+}
+
+#title {
+  font-size: 30px;
+  color: rgb(10, 10, 10);
+}
+
+#description {
+  font-size: 18px;
+  color: rgb(43, 5, 44);
+}
+
+.display-4 {
+  font-size: 30px;
+  color: rgb(5, 45, 105);
+}
+
+#tbody {
+  color: rgb(10, 10, 10);
+}
+
+.tr {
+  color: rgb(10, 10, 10);
+}
+
+.col m-4 {
+  color: rgb(10, 10, 10);
+}
